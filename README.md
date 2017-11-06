@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # server
 =======
 
@@ -41,4 +40,3 @@ POST localhost:5000/users/user-1234235235 (<-- an id that u find in eventstore)
 
 - EventStore should show 2 Events for the User
 - MongoDB should have a User collection with a single record (email of matt@abc.com, version of 2)
->>>>>>> Initial Commit
